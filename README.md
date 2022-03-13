@@ -12,7 +12,7 @@ The training data split of the SMDD data can be downloaded from this [LINK](http
 
 The testing data split of the SMDD data can be downloaded from: (to be uploaded) 
 
-## make new section
+## 
 
 **Citation:**
 
@@ -54,7 +54,7 @@ If you use the MixFaceNet-MAD, please cite the paper above and the original MixF
 }
 ```
 
-## make new section
+## 
 
 **License:**
 
