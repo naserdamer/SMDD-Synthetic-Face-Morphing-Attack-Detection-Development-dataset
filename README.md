@@ -13,7 +13,7 @@ The testing data split of the SMDD data can be downloaded from: (to be uploaded)
 
 **Citation:**
 
-If you use SMDD dataset, please cite the following paper:
+If you use SMDD dataset, please cite the following [paper](https://cloud-ext.igd.fraunhofer.de/s/342foeNWqZiLzfZ):
 
 @article{SMDD,
   author    = {Naser Damer and
