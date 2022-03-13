@@ -30,7 +30,7 @@ If you use SMDD dataset, please cite the following paper:
 
 If you use the MixFaceNet-MAD, please cite the paper above and the original MixFaceNet paper ([repo](https://github.com/fdbtrs/mixfacenets), [paper](https://ieeexplore.ieee.org/document/9484374)):
 
-@inproceedings{DBLP:conf/icb/BoutrosDFKK21,
+@inproceedings{mixfacenet,
   author    = {Fadi Boutros and
                Naser Damer and
                Meiling Fang and
