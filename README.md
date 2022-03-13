@@ -12,11 +12,13 @@ The training data split of the SMDD data can be downloaded from this [LINK](http
 
 The testing data split of the SMDD data can be downloaded from: (to be uploaded) 
 
+## make new section
 
 **Citation:**
 
 If you use SMDD dataset, please cite the following [paper](https://cloud-ext.igd.fraunhofer.de/s/342foeNWqZiLzfZ):
 
+"
 @article{SMDD,
   author    = {Naser Damer and
 			   C{\'{e}}sar Augusto Fontanillo L{\'{o}}pez
@@ -29,9 +31,11 @@ If you use SMDD dataset, please cite the following [paper](https://cloud-ext.igd
   volume    = {},
   year      = {2022},
 }
+"
 
 If you use the MixFaceNet-MAD, please cite the paper above and the original MixFaceNet paper ([repo](https://github.com/fdbtrs/mixfacenets), [paper](https://ieeexplore.ieee.org/document/9484374)):
 
+'''
 @inproceedings{mixfacenet,
   author    = {Fadi Boutros and
                Naser Damer and
@@ -47,8 +51,9 @@ If you use the MixFaceNet-MAD, please cite the paper above and the original MixF
   url       = {https://doi.org/10.1109/IJCB52358.2021.9484374},
   doi       = {10.1109/IJCB52358.2021.9484374},
 }
+'''
 
-
+## make new section
 
 **License:**
 
