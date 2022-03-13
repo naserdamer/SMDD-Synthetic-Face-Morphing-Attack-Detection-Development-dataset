@@ -6,5 +6,6 @@ Official repository of the paper Privacy-friendly Synthetic Data for the Develop
 
 
 
-The training data split of the SMDD data can be downloaded from: https://drive.google.com/file/d/1l24onXtKMj0YZInJFHEzQbrfV5oScJSe/view?usp=sharing
+The training data split of the SMDD data can be downloaded from this [LINK](https://drive.google.com/file/d/1l24onXtKMj0YZInJFHEzQbrfV5oScJSe/view?usp=sharing).
+
 The testing data split of the SMDD data can be downloaded from: (to be uploaded) 
