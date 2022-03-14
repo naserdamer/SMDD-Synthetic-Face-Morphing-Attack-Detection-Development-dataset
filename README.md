@@ -10,9 +10,44 @@ Paper available under this [LINK](https://cloud-ext.igd.fraunhofer.de/s/225mTJQ4
 
 The training data split of the SMDD data can be downloaded from this [LINK](https://drive.google.com/file/d/1l24onXtKMj0YZInJFHEzQbrfV5oScJSe/view?usp=sharing).
 
-The testing data split of the SMDD data can be downloaded from: (to be uploaded) 
+The testing data split of the SMDD data can be downloaded from: (to be uploaded)
 
-## 
+The pretrained weight of MixFaceNet model on SMDD training data can be downloaded from this [LINK](https://drive.google.com/file/d/1BKQlSVb9ZdEfDBzdzkMTBjsiVsLvyqwl/view?usp=sharing).
+
+## Data preparation
+Our face data is preprocessed by the face detection, alignment and crop. The implementation can be found in image_preprocess.py file.
+Moreover, for further training and test, the corresponding CSV files should be generated. The format of the dataset CSV file in our case is:
+```
+image_path,label
+/image_dir/image_file_1.png, bonafide
+/image_dir/image_file_2.png, bonafide
+/image_dir/image_file_3.png, attack
+/image_dir/image_file_4.png, attack
+```
+## Experiment
+The main.py file can be used for training and test:
+1. When training and test:
+    ```
+    python main.py \
+      --train_csv_path 'train.csv' \
+      --test_csv_path 'test.csv' \
+      --model_path 'mixfacenet_SMDD' \
+      --is_train True \
+      --is_test True \
+      --output_dir 'output' \
+    ```
+2. When test by using pretrained weight, first download the model and give the model path:
+    ```
+    python main.py \
+      --test_csv_path 'test.csv' \
+      --model_path 'mixfacenet_SMDD' \
+      --is_train False \
+      --is_test True \
+      --output_dir 'output' \
+    ```
+More detailed information can be found in main.py.
+
+##
 
 **Citation:**
 
@@ -54,7 +89,7 @@ If you use the MixFaceNet-MAD, please cite the paper above and the original MixF
 }
 ```
 
-## 
+##
 
 **License:**
 
