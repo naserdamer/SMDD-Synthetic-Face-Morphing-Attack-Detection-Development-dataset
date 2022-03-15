@@ -8,11 +8,11 @@ Paper available under this [LINK](https://cloud-ext.igd.fraunhofer.de/s/225mTJQ4
 
 
 
-The training data split of the SMDD data can be downloaded from this [LINK](https://drive.google.com/file/d/1l24onXtKMj0YZInJFHEzQbrfV5oScJSe/view?usp=sharing).
+The training data split of the SMDD data can be downloaded from this [LINK](https://drive.google.com/file/d/1l24onXtKMj0YZInJFHEzQbrfV5oScJSe/view?usp=sharing) (please share your name, affiliation, and official email in the request form).
 
 The testing data split of the SMDD data can be downloaded from: (to be uploaded)
 
-The pretrained weight of MixFaceNet-MAD model on SMDD training data can be downloaded from this [LINK](https://drive.google.com/file/d/1qw6YZ3cpaa9UK2-hRfzKWx5rPvRo0h63/view?usp=sharing).
+The pretrained weight of MixFaceNet-MAD model on SMDD training data can be downloaded from this [LINK](https://drive.google.com/file/d/1qw6YZ3cpaa9UK2-hRfzKWx5rPvRo0h63/view?usp=sharing) (please share your name, affiliation, and official email in the request form).
 
 ## Data preparation
 Our face data is preprocessed by the face detection and cropping. The implementation can be found in image_preprocess.py file.
