@@ -1,6 +1,9 @@
 # SMDD-Synthetic-Face-Morphing-Attack-Detection-Development-dataset
 Official repository of the paper Privacy-friendly Synthetic Data for the Development of Face Morphing Attack Detectors
 
+![grafik](https://user-images.githubusercontent.com/85616215/158406086-b413c5b9-e4da-4e0e-be01-4de71d279979.png)
+
+
 Paper available under this [LINK](https://arxiv.org/abs/2203.06691)
 
 
