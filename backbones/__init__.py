@@ -1,1 +1,1 @@
-from .mixnetm import MixNet, mixnet_s, mixnet_m, mixnet_l
+from .mixnetm_mad import MixNet, mixnet_s, mixnet_m, mixnet_l
