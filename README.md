@@ -12,10 +12,10 @@ The training data split of the SMDD data can be downloaded from this [LINK](http
 
 The testing data split of the SMDD data can be downloaded from: (to be uploaded)
 
-The pretrained weight of MixFaceNet model on SMDD training data can be downloaded from this [LINK](https://drive.google.com/file/d/1qw6YZ3cpaa9UK2-hRfzKWx5rPvRo0h63/view?usp=sharing).
+The pretrained weight of MixFaceNet-MAD model on SMDD training data can be downloaded from this [LINK](https://drive.google.com/file/d/1qw6YZ3cpaa9UK2-hRfzKWx5rPvRo0h63/view?usp=sharing).
 
 ## Data preparation
-Our face data is preprocessed by the face detection, alignment and crop. The implementation can be found in image_preprocess.py file.
+Our face data is preprocessed by the face detection and cropping. The implementation can be found in image_preprocess.py file.
 Moreover, for further training and test, the corresponding CSV files should be generated. The format of the dataset CSV file in our case is:
 ```
 image_path,label
