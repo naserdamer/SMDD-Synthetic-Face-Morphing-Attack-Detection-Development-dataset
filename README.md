@@ -34,7 +34,7 @@ The main.py file can be used for training and test:
     python main.py \
       --train_csv_path 'train.csv' \
       --test_csv_path 'test.csv' \
-      --model_path 'mixfacenet_SMDD' \
+      --model_path 'mixfacenet_SMDD.pth' \
       --is_train True \
       --is_test True \
       --output_dir 'output' \
@@ -43,7 +43,7 @@ The main.py file can be used for training and test:
     ```
     python main.py \
       --test_csv_path 'test.csv' \
-      --model_path 'mixfacenet_SMDD' \
+      --model_path 'mixfacenet_SMDD.pth' \
       --is_train False \
       --is_test True \
       --output_dir 'output' \
