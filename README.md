@@ -8,7 +8,7 @@ Paper available under this [LINK](https://arxiv.org/abs/2203.06691)
 
 
 
-The training data split of the SMDD data can be downloaded from this [LINK](https://drive.google.com/file/d/1m5aumtL2wlZDiXXo-Rm1Bfx22SEBF6bt/view?usp=sharing) (please share your name, affiliation, and official email in the request form).
+The training data split of the SMDD data can be downloaded from this [LINK](https://drive.google.com/file/d/1I6x_gWtu3WxOloK8k-tecXjV3XsRPYYO/view?usp=sharing) (please share your name, affiliation, and official email in the request form).
 
 The testing data split of the SMDD data can be downloaded from: (to be uploaded)
 
