@@ -59,15 +59,20 @@ If you use SMDD dataset, please cite the following [paper](https://cloud-ext.igd
 ```
 @article{SMDD,
   author    = {Naser Damer and
-			   C{\'{e}}sar Augusto Fontanillo L{\'{o}}pez
-			   Meiling Fang and
-               No{\'{e}}mie Spiller  and
+               C{\'{e}}sar Augusto Fontanillo L{\'{o}}pez and
+               Meiling Fang and
+               No{\'{e}}mie Spiller and
                Minh Vu Pham and
-			   Fadi Boutros},
-  title     = {Privacy-friendly Synthetic Data for the Development of Face Morphing Attack Detectors},
+               Fadi Boutros},
+  title     = {Privacy-friendly Synthetic Data for the Development of Face Morphing
+               Attack Detectors},
   journal   = {CoRR},
-  volume    = {},
+  volume    = {abs/2203.06691},
   year      = {2022},
+  url       = {https://doi.org/10.48550/arXiv.2203.06691},
+  doi       = {10.48550/arXiv.2203.06691},
+  eprinttype = {arXiv},
+  eprint    = {2203.06691},
 }
 ```
 
