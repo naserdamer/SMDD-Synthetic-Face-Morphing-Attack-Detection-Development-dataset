@@ -6,7 +6,7 @@ Official repository of the paper Privacy-friendly Synthetic Data for the Develop
 ![grafik](https://user-images.githubusercontent.com/85616215/158406086-b413c5b9-e4da-4e0e-be01-4de71d279979.png)
 
 
-Paper available under this [LINK](https://cloud-ext.igd.fraunhofer.de/s/gipZcKkBKLCLbze)
+Paper available under this [LINK](https://arxiv.org/abs/2203.06691)
 
 
 ![grafik](https://user-images.githubusercontent.com/85616215/158062680-a4275e0f-6e8a-4728-97f9-1b44e03ac53d.png)
@@ -56,7 +56,7 @@ More detailed information can be found in main.py.
 
 **Citation:**
 
-If you use SMDD dataset, please cite the following [paper](https://cloud-ext.igd.fraunhofer.de/s/gipZcKkBKLCLbze):
+If you use SMDD dataset, please cite the following [paper](https://arxiv.org/abs/2203.06691):
 
 ```
 @article{SMDD,
