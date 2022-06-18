@@ -60,21 +60,12 @@ If you use SMDD dataset, please cite the following [paper](https://arxiv.org/abs
 
 ```
 @article{SMDD,
-  author    = {Naser Damer and
-               C{\'{e}}sar Augusto Fontanillo L{\'{o}}pez and
-               Meiling Fang and
-               No{\'{e}}mie Spiller and
-               Minh Vu Pham and
-               Fadi Boutros},
-  title     = {Privacy-friendly Synthetic Data for the Development of Face Morphing
-               Attack Detectors},
-  journal   = {CoRR},
-  volume    = {abs/2203.06691},
-  year      = {2022},
-  url       = {https://doi.org/10.48550/arXiv.2203.06691},
-  doi       = {10.48550/arXiv.2203.06691},
-  eprinttype = {arXiv},
-  eprint    = {2203.06691},
+    author    = {Damer, Naser and L\'opez, C\'esar Augusto Fontanillo and Fang, Meiling and Spiller, No\'emie and Pham, Minh Vu and Boutros, Fadi},
+    title     = {Privacy-Friendly Synthetic Data for the Development of Face Morphing Attack Detectors},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2022},
+    pages     = {1606-1617}
 }
 ```
 
