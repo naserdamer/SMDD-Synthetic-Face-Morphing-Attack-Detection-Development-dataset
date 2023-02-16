@@ -1,12 +1,12 @@
 # SMDD-Synthetic-Face-Morphing-Attack-Detection-Development-dataset
 Official repository of the paper Privacy-friendly Synthetic Data for the Development of Face Morphing Attack Detectors
 
-*** Accepted at CVPR workshops 2022 ***
+[*** Accepted at CVPR workshops 2022 ***](https://openaccess.thecvf.com/content/CVPR2022W/Biometrics/html/Damer_Privacy-Friendly_Synthetic_Data_for_the_Development_of_Face_Morphing_Attack_CVPRW_2022_paper.html)
 
 ![grafik](https://user-images.githubusercontent.com/85616215/158406086-b413c5b9-e4da-4e0e-be01-4de71d279979.png)
 
 
-Paper available under this [LINK](https://arxiv.org/abs/2203.06691)
+Paper available under this [LINK](https://openaccess.thecvf.com/content/CVPR2022W/Biometrics/html/Damer_Privacy-Friendly_Synthetic_Data_for_the_Development_of_Face_Morphing_Attack_CVPRW_2022_paper.html)
 
 
 ![grafik](https://user-images.githubusercontent.com/85616215/158062680-a4275e0f-6e8a-4728-97f9-1b44e03ac53d.png)
@@ -15,7 +15,7 @@ Paper available under this [LINK](https://arxiv.org/abs/2203.06691)
 
 The training data split of the SMDD data can be downloaded from this [LINK](https://drive.google.com/file/d/1I6x_gWtu3WxOloK8k-tecXjV3XsRPYYO/view?usp=sharing) (please share your name, affiliation, and official email in the request form).
 
-The testing data split of the SMDD data can be downloaded from: (to be uploaded)
+The testing data split of the SMDD data can be downloaded from: [LINK](https://drive.google.com/file/d/1V8libhAEMOL77gtUDtcruHIKBUy8ks6y/view?usp=share_link) (please share your name, affiliation, and official email in the request form)
 
 The pretrained weight of MixFaceNet-MAD model on SMDD training data can be downloaded from this [LINK](https://drive.google.com/file/d/1qw6YZ3cpaa9UK2-hRfzKWx5rPvRo0h63/view?usp=sharing) (please share your name, affiliation, and official email in the request form).
 
@@ -56,16 +56,25 @@ More detailed information can be found in main.py.
 
 **Citation:**
 
-If you use SMDD dataset, please cite the following [paper](https://arxiv.org/abs/2203.06691):
+If you use SMDD dataset, please cite the following [paper](https://openaccess.thecvf.com/content/CVPR2022W/Biometrics/html/Damer_Privacy-Friendly_Synthetic_Data_for_the_Development_of_Face_Morphing_Attack_CVPRW_2022_paper.html):
 
 ```
 @article{SMDD,
-    author    = {Damer, Naser and L\'opez, C\'esar Augusto Fontanillo and Fang, Meiling and Spiller, No\'emie and Pham, Minh Vu and Boutros, Fadi},
-    title     = {Privacy-Friendly Synthetic Data for the Development of Face Morphing Attack Detectors},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-    month     = {June},
-    year      = {2022},
-    pages     = {1606-1617}
+  author    = {Naser Damer and
+               C{\'{e}}sar Augusto Fontanillo L{\'{o}}pez and
+               Meiling Fang and
+               No{\'{e}}mie Spiller and
+               Minh Vu Pham and
+               Fadi Boutros},
+  title     = {Privacy-friendly Synthetic Data for the Development of Face Morphing
+               Attack Detectors},
+  booktitle = {{IEEE/CVF} Conference on Computer Vision and Pattern Recognition Workshops,
+               {CVPR} Workshops 2022, New Orleans, LA, USA, June 19-20, 2022},
+  pages     = {1605--1616},
+  publisher = {{IEEE}},
+  year      = {2022},
+  url       = {https://doi.org/10.1109/CVPRW56347.2022.00167},
+  doi       = {10.1109/CVPRW56347.2022.00167},
 }
 ```
 
@@ -89,6 +98,8 @@ If you use the MixFaceNet-MAD, please cite the paper above and the original MixF
   doi       = {10.1109/IJCB52358.2021.9484374},
 }
 ```
+
+The "IJCB-SYN-MAD-2022: Competition on Face Morphing Attack Detection Based on Privacy-aware Synthetic Training Data" ([PAPER](https://ieeexplore.ieee.org/document/10007950)) is based on the SMDD development data. The IJCB-SYN-MAD-2022 also released a real data evaluation bemchmark that can be found on its [REPO](https://github.com/marcohuber/SYN-MAD-2022).
 
 ##
 
