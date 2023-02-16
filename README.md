@@ -15,7 +15,11 @@ Paper available under this [LINK](https://openaccess.thecvf.com/content/CVPR2022
 
 The training data split of the SMDD data can be downloaded from this [LINK](https://drive.google.com/file/d/1I6x_gWtu3WxOloK8k-tecXjV3XsRPYYO/view?usp=sharing) (please share your name, affiliation, and official email in the request form).
 
+The source images for the morphing attacks of the training split can be dowloaded from this [LINK](https://drive.google.com/file/d/1j51zwZ0rLbvpPr8RfkQ5QoFPvGf3sfdu/view?usp=sharing) (please share your name, affiliation, and official email in the request form). The morphing pairs follow the file names of the morphing attacks in the training split. Please note that any morphing attacks based on this source data and/or pairing must be (1) made public, (2) shared with the authors of this work, and (3) linked to this repository and share don this repository.
+
 The testing data split of the SMDD data can be downloaded from: [LINK](https://drive.google.com/file/d/1V8libhAEMOL77gtUDtcruHIKBUy8ks6y/view?usp=share_link) (please share your name, affiliation, and official email in the request form)
+
+The source images for the morphing attacks of the evaluation split can be dowloaded from this [LINK](https://drive.google.com/file/d/1LAIY0jAP3ZMd51Yqr-WlFRe7k3IOYi68/view?usp=share_link) (please share your name, affiliation, and official email in the request form). The morphing pairs follow the file names of the morphing attacks in the evaluation split. Please note that any morphing attacks based on this source data and/or pairing must be (1) made public, (2) shared with the authors of this work, and (3) linked to this repository and share don this repository.
 
 The pretrained weight of MixFaceNet-MAD model on SMDD training data can be downloaded from this [LINK](https://drive.google.com/file/d/1qw6YZ3cpaa9UK2-hRfzKWx5rPvRo0h63/view?usp=sharing) (please share your name, affiliation, and official email in the request form).
 
