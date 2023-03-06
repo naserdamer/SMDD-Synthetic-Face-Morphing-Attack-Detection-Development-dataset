@@ -11,7 +11,7 @@ Paper available under this [LINK](https://openaccess.thecvf.com/content/CVPR2022
 
 ![grafik](https://user-images.githubusercontent.com/85616215/158062680-a4275e0f-6e8a-4728-97f9-1b44e03ac53d.png)
 
-
+***NOTE***: Please note that the SMDD data aims at being a development (training) data for MAD. For an authentic and comprehensive evaluation data we recomend using the MAD22 benchmark of the SYN-MAD-2022 competetion available at its official [REPO](https://github.com/marcohuber/SYN-MAD-2022) as well as its extention with Diffusion Autoencoder based mrophs (MorDIFF) also available at its own [REPO](https://github.com/naserdamer/MorDIFF).
 
 The training data split of the SMDD data can be downloaded from this [LINK](https://drive.google.com/file/d/1I6x_gWtu3WxOloK8k-tecXjV3XsRPYYO/view?usp=sharing) (please share your name, affiliation, and official email in the request form).
 
